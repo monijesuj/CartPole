@@ -84,6 +84,6 @@ Each implementation provides:
 
 ## Conclusion
 
-This repository serves as a comprehensive study of various control techniques for the cart-pole problem. By juxtaposing classical control methods (LQR and PID) with modern approaches (MPC and RL), it highlights the nuances and performance differences inherent in each strategy.
+This repository serves as an attempt at the study of various control techniques for the cart-pole problem. 
 
 Happy experimenting!
